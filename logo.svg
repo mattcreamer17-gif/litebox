@@ -1,0 +1,16 @@
+<svg width='79' height='64' viewBox='0 0 79 64' fill='none' xmlns='http://www.w3.org/2000/svg'>
+  <path d='M14.9453 18.9872H21.0956V29.2209H14.9453V18.9872Z' fill='#65D97B' />
+  <path d='M32.5137 18.9872H38.664V29.2209H32.5137V18.9872Z' fill='#65D97B' />
+  <path
+    fill-rule='evenodd'
+    clip-rule='evenodd'
+    d='M0 0.376404V63.6237H78.2222V0.376404H0ZM48.2708 57.5322H5.7995V6.47952H48.2708V57.5322Z'
+    fill='#65D97B'
+  />
+  <path
+    fill-rule='evenodd'
+    clip-rule='evenodd'
+    d='M26.3652 42.9916C29.9283 42.9916 32.8116 40.1605 32.8116 36.6564H38.6659C38.6659 43.3397 33.1624 48.7466 26.3652 48.7466V42.9916Z'
+    fill='#65D97B'
+  />
+</svg>
